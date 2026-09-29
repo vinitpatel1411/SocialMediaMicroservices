@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "L18H8SFr33k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinit\\source\\repos\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinit\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\vinit\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\vinit\\.nuget\\packages\\mongodb.bson\\3.11.0\\mongodb.bson.3.11.0.nupkg.sha512",
+    "C:\\Users\\vinit\\.nuget\\packages\\mongodb.driver\\3.11.0\\mongodb.driver.3.11.0.nupkg.sha512",
+    "C:\\Users\\vinit\\.nuget\\packages\\sharpcompress\\0.48.1\\sharpcompress.0.48.1.nupkg.sha512",
+    "C:\\Users\\vinit\\.nuget\\packages\\snappier\\1.3.1\\snappier.1.3.1.nupkg.sha512",
+    "C:\\Users\\vinit\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}

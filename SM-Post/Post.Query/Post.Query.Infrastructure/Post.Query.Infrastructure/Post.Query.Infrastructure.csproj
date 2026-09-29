@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="2.15.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.11" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\CQRS-ES\CQRS.Core\CQRS.Core\CQRS.Core.csproj" />
+    <ProjectReference Include="..\..\Post.Query.Domain\Post.Query.Domain\Post.Query.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

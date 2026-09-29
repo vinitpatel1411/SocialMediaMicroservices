@@ -1,0 +1,13 @@
+C:\Users\vinit\source\repos\CQRS-ES\CQRS.Core\CQRS.Core\bin\Debug\net10.0\CQRS.Core.deps.json
+C:\Users\vinit\source\repos\CQRS-ES\CQRS.Core\CQRS.Core\bin\Debug\net10.0\CQRS.Core.dll
+C:\Users\vinit\source\repos\CQRS-ES\CQRS.Core\CQRS.Core\bin\Debug\net10.0\CQRS.Core.pdb
+C:\Users\vinit\source\repos\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net10.0\CQRS.Core.csproj.AssemblyReference.cache
+C:\Users\vinit\source\repos\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net10.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinit\source\repos\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net10.0\CQRS.Core.AssemblyInfoInputs.cache
+C:\Users\vinit\source\repos\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net10.0\CQRS.Core.AssemblyInfo.cs
+C:\Users\vinit\source\repos\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net10.0\CQRS.Core.csproj.CoreCompileInputs.cache
+C:\Users\vinit\source\repos\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net10.0\CQRS.Core.dll
+C:\Users\vinit\source\repos\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net10.0\refint\CQRS.Core.dll
+C:\Users\vinit\source\repos\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net10.0\CQRS.Core.pdb
+C:\Users\vinit\source\repos\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net10.0\ref\CQRS.Core.dll
+C:\Users\vinit\source\repos\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net10.0\CQRS.Core.csproj.Up2Date

@@ -1,0 +1,47 @@
+# Build output
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# JetBrains Rider
+.idea/
+
+# Logs
+*.log
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+secrets.json
+
+# Certificates and private keys
+*.pfx
+*.p12
+*.key
+
+# Local databases
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Test results
+TestResults/
+[Tt]est[Rr]esult*/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# OS files
+.DS_Store
+Thumbs.db
